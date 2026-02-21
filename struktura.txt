@@ -1,0 +1,23 @@
+Folder PATH listing
+Volume serial number is A84C-4CA9
+C:.
+¦   .gitattributes
+¦   manifest.html
+¦   struktura.txt
+¦   
++---01 IDR
+¦       00 IDR Glavna sveska.dotx
+¦       01 IDR Sveska projekta.dotx
+¦       
++---02 PGD
+¦       00 PGD Glavna sveska.dotx
+¦       01 PGD Sveska projekta.dotx
+¦       
++---03 PZI
+¦       00 PZI Glavna sveska.dotx
+¦       01 PZI Sveska projetka.dotx
+¦       
++---04 TK
+        00 TK Glavna sveska.dotx
+        01 TK Sveska projekta.docx
+        

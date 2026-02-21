@@ -1,0 +1,16 @@
+{
+  "baseRaw": "https://raw.githubusercontent.com/<OWNER>/<REPO>/main",
+  "templates": {
+    "IDR_GS": { "name": "IDR – Glavna sveska", "path": "01 IDR/00 IDR Glavna sveska.dotx" },
+    "IDR_SP": { "name": "IDR – Sveska projekta", "path": "01 IDR/01 IDR Sveska projekta.dotx" },
+
+    "PGD_GS": { "name": "PGD – Glavna sveska", "path": "02 PGD/00 PGD Glavna sveska.dotx" },
+    "PGD_SP": { "name": "PGD – Sveska projekta", "path": "02 PGD/01 PGD Sveska projekta.dotx" },
+
+    "PZI_GS": { "name": "PZI – Glavna sveska", "path": "03 PZI/00 PZI Glavna sveska.dotx" },
+    "PZI_SP": { "name": "PZI – Sveska projekta", "path": "03 PZI/01 PZI Sveska projetka.dotx" },
+
+    "TK_GS":  { "name": "TK – Glavna sveska",  "path": "04 TK/00 TK Glavna sveska.dotx" },
+    "TK_SP":  { "name": "TK – Sveska projekta","path": "04 TK/01 TK Sveska projekta.dotx" }
+  }
+}
